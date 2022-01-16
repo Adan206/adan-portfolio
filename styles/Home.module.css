@@ -1,5 +1,7 @@
+/* theme; https://coolors.co/dff8eb-a28f9d-74776b-5c574f-48483a */
+
 .container {
-  background: #f1fdfa;
+  background: #74776b;
   min-height: 100vh;
   padding: 0 0.5rem;
   display: flex;
