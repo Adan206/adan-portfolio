@@ -7,7 +7,7 @@ const Home: NextPage = () => {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Adan's Portfolio</title>
+        <title>{`Adan's Portfolio`}</title>
         <meta
           name='description'
           content='A portfolio of software developer work.'

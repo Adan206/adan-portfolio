@@ -1,4 +1,4 @@
-# basic-nextjs-portfolio
+# adan-portfolio
 
 Please use this repository [as a template](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template) for your own portfolio!
 
@@ -6,7 +6,7 @@ This portfolio site is [built using Next.js](https://github.com/vercel/next.js/t
 
 This portfolio is made to deploy to GitHub Pages, a forever-free static site hosting service from GitHub!
 
-View the live site [here](https://vandivier.github.io/basic-nextjs-portfolio/).
+View the live site [here](https://adan206.github.io/adan-portfolio/).
 
 # use
 
