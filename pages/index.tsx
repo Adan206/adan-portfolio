@@ -41,7 +41,7 @@ const Home: NextPage = () => {
           </a>
 
           <a
-            href='https://adan206.github.io/g-blog/'
+            href='https://adan206.github.io/my-gat-blog/'
             className={styles.card}
             rel='noreferrer'
             target='_blank'
