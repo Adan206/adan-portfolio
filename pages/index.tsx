@@ -49,6 +49,15 @@ const Home: NextPage = () => {
             <h2>Blog</h2>
             <p>Sharing my dev experience with the world</p>
           </a>
+          <a
+            href='https://adan206.github.io/cryptocoinstar/'
+            className={styles.card}
+            rel='noreferrer'
+            target='_blank'
+          >
+            <h2>Crypto Coinstar App</h2>
+            <p>Search through Crypto and see the marketcap for your coin</p>
+          </a>
 
           {/* <a
             href='https://vandivier.github.io/vanilla-flat-white/'
