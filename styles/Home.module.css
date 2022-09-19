@@ -1,7 +1,7 @@
 /* theme; https://coolors.co/dff8eb-a28f9d-74776b-5c574f-48483a */
 
 .container {
-  background: #74776b;
+  background: #f6a608;
   min-height: 100vh;
   padding: 0 0.5rem;
   display: flex;
@@ -85,8 +85,8 @@
 .card:hover,
 .card:focus,
 .card:active {
-  border: 1px solid #017757;
-  background: #407701;
+  border: 1px solid #0c110f;
+  background: #2d4115;
   color: #fffbf6;
 }
 
